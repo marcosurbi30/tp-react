@@ -1,15 +1,8 @@
-import React, { useState } from "react";
-import "./title.css"
 
-const Menu = () => {
+import React from 'react'
 
-
-
-    const [isOpen, setIsOpen] = useState(false)
-    return (
-        <>
-            <h1>Directorio telefonico</h1>
-        </>
-    )
+export const Title = () => {
+  return (
+    <h1>Agenda de contactos</h1>
+  )
 }
-export default title

@@ -1,0 +1,10 @@
+:root {
+    #agregarFormulario {
+        color: black;
+        background-color: brown;
+        font-size: 60px;
+        width: 60px;
+        border-radius: 100%;
+        cursor: pointer;
+    }
+}
